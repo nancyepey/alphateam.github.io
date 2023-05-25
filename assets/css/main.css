@@ -76,6 +76,7 @@ h6 {
   font-family: var(--font-primary);
 }
 
+
 .section-header h2::after {
   content: "";
   width: 120px;
@@ -294,7 +295,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 70px;
   margin-right: 8px;
 }
 
@@ -336,7 +337,7 @@ h6 {
 }
 
 .header .header-social-links a:hover {
-  color: #fff;
+  color: rgba(39, 167, 118, 0.8);
 }
 
 @media (max-width: 575px) {
@@ -676,7 +677,7 @@ h6 {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(2, 153, 35, 0.5);
 }
 
 .testimonials .swiper-slide {
